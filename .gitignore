@@ -1,0 +1,11 @@
+# MacOSX
+
+.DS_Store
+
+
+# Data sets
+
+./IRIS
+*.data
+*.txt
+*.csv
